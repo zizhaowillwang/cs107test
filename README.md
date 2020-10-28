@@ -1,3 +1,5 @@
-[![Build Status](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)
+[![Build Status](https://travis-ci.org/zizhaowillwang/cs107test.svg?branch=main)](https://travis-ci.org/zizhaowillwang/cs107test)
 
-[![Coverage Status](https://codecov.io/gh/zizhaowillwang/cs107testing/branch/main/graph/badge.svg)](https://codecov.io/gh/zizhaowillwang/cs107testing)
+[![Coverage Status](https://codecov.io/gh/zizhaowillwang/cs107test/branch/main/graph/badge.svg)](https://codecov.io/gh/zizhaowillwang/cs107test)
+
+#cs107test
